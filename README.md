@@ -1,5 +1,5 @@
 <h1 align="center">Noah Lopes</h1>
-<h3 align="center">Sou um estudante de tecnologia, aspirante a desenvolvedor. Atualmente trabalho em projetos pessoais e de cursos focados em back-end e front-end.</h3>
+<h3 align="center">Sou um estudante de tecnologia, aspirante a desenvolvedor. Atualmente trabalho em projetos pessoais e projetos de cursos focados em back-end e front-end.</h3>
 <img align="right" alt="Coding" width="400" src="https://ae01.alicdn.com/kf/H620241a3549f4cc893bbdbbd15a182004/YEELIGHT-Screen-light-Bar-Pro-Eyes-Protection-Reading-Dimmable-PC-Computer-USB-Lamp-Display-Hanging-Light.jpg">
 <br>
 
