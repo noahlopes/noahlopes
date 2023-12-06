@@ -23,9 +23,14 @@ Estou constantemente à procura de desafios e chances para ampliar meus conhecim
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A5CD39?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A5CD39?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![PowerBI](https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![PowerApps](https://img.shields.io/badge/power%20apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![PowerAutomate](https://img.shields.io/badge/power%20automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![PowerVirtualAgents](https://img.shields.io/badge/power%20virtual%20agents-0B556A?style=for-the-badge&logo=powervirtualagents&logoColor=white)
+
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
