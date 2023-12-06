@@ -5,9 +5,9 @@
 <p align="left"> 
   Sou brasileiro, tenho 26 anos e sou <strong>Desenvolvedor</strong>.
 
-Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, interessado em aprender cada vez mais. Atualmente trabalho em projetos pessoais e projetos de cursos focados em back-end e front-end.
+Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente trabalho em projetos pessoais e projetos de cursos focados em back-end e front-end.
 
-Estou constantemente à procura de desafios e chances para ampliar meus conhecimentos e evoluir. Tenho grande prazer em conhecer novas pessoas e descobrir formas de aprimorar o cenário digital em busca de um mundo melhor. Caso haja interesse em colaborar ou trocar ideias, sinta-se à vontade para me contatar. 
+Estou constantemente à procura de desafios e chances para ampliar meus conhecimentos e evoluir. Tenho grande prazer em conhecer novas pessoas e descobrir formas de aprimorar o cenário digital em busca de me aperfeiçoar cada vez mais. Caso haja interesse em colaborar ou trocar ideias, sinta-se à vontade para me contatar. 
 
 <h2 align="left">
  🦄 Linguagens e tecnologias:
