@@ -10,7 +10,7 @@ Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. At
 Estou constantemente à procura de desafios e chances para ampliar meus conhecimentos e evoluir. Tenho grande prazer em conhecer novas pessoas e descobrir formas de aprimorar o cenário digital em busca de me aperfeiçoar cada vez mais. Caso haja interesse em colaborar ou trocar ideias, sinta-se à vontade para me contatar. 
 
 <h2 align="left">
- 🦄 Linguagens e tecnologias:
+Linguagens e tecnologias:
 </h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
