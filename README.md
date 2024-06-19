@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
-  Sou brasileiro, tenho 26 anos e sou <strong>Desenvolvedor</strong>.
+  Sou brasileiro, tenho 27 anos e sou <strong>Desenvolvedor</strong>.
 
 Curso Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Atualmente trabalho em projetos pessoais e projetos de cursos focados em back-end e front-end.
 
