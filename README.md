@@ -33,7 +33,7 @@ Linguagens e tecnologias:
 
 
 <p align="left">
-  💌 Sinta-se a vontade para entrar em contato: ⤵️
+  Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
 <a href="https://www.linkedin.com/in/noah-lopes-nunes/" title="LinkedIn" target="_blank">
